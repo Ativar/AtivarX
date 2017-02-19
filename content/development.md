@@ -92,4 +92,4 @@ Nuestras guidelines son muy simples:
 ####[Dokku](https://github.com/dokku/dokku)
 
 ---
-[Home](../README.md) / [Communication](content/communication.md)
+[Home](../README.md) / [Communication](communication.md)

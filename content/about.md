@@ -10,4 +10,4 @@ La intencion de esta guía rápida que enumera recomendaciones, consejos, sugere
 No obstante, no es la intención de esta guía delimitar formas de actuar, ni tampoco moldear comportamientos.
 
 ---
-[Home](../README.md) / [Development](content/development.md)
+[Home](../README.md) / [Development](development.md)
