@@ -10,4 +10,4 @@ Una comunicación efectiva es fundamental dentro de cualquier empresa. Mucho má
 Todas las plataformas alamacenan historial para poder revisar y consultar a cada momento.
 
 ---
-[Home](../README.md) / [Communication](workflow.md)
+[Home](../README.md) / [Workflow](workflow.md)
