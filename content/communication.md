@@ -8,3 +8,6 @@ Una comunicación efectiva es fundamental dentro de cualquier empresa. Mucho má
 #### Ativar Mail, contacto con clientes y envio de archivos que no sean piesas de proyecto
 
 Todas las plataformas alamacenan historial para poder revisar y consultar a cada momento.
+
+---
+[Home](../README.md) / [Communication](workflow.md)
