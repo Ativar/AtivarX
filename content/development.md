@@ -25,6 +25,8 @@ Nuestras guidelines son muy simples:
 - tabulado con 2 espacios.
 - Trabajamos en inglés a menos que haya una excepción para el proyecto.
 
+De lo mas importante de todo, es que todos pueden poder proponer la tecnologia en la que se necesite trabajar siempre y cuando se pueda justificar su utilidad ademas de un Code Style propuesto
+
 ##Resources:
 
 ### Code Styles
