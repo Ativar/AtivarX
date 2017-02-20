@@ -12,6 +12,8 @@ Este repositorio es donde recopilaremos recursos y guías para la correcta aplic
 
 ###[Workflow](content/workflow.md)
 
+###[Recomended Courses](content/courses.md)
+
 ##Contributing
 Please submit a pull request! This is in the very early stages of development.
 
